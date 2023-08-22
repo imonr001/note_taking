@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/note_taking/static/css/main.71dd9d6c.css",
+    "main.js": "/note_taking/static/js/main.4315fc0d.js",
+    "static/media/loginPageBackground.jpg": "/note_taking/static/media/loginPageBackground.909a4c17697c449ac264.jpg",
+    "static/media/pexels-mart-production-7718838.jpg": "/note_taking/static/media/pexels-mart-production-7718838.30b89d4c54bb6dcf3398.jpg",
+    "index.html": "/note_taking/index.html",
+    "main.71dd9d6c.css.map": "/note_taking/static/css/main.71dd9d6c.css.map",
+    "main.4315fc0d.js.map": "/note_taking/static/js/main.4315fc0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71dd9d6c.css",
+    "static/js/main.4315fc0d.js"
+  ]
+}

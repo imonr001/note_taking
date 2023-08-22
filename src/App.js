@@ -6,9 +6,9 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="https://imonr001.github.io/note_taking/login" exact={true} element={<Login />}></Route>
-        <Route path="https://imonr001.github.io/note_taking/signup"  element={<SignUp />}></Route>
-        <Route path="https://imonr001.github.io/note_taking/"  element={<Home />}></Route>
+        <Route path="/login" exact={true} element={<Login />}></Route>
+        <Route path="/signup"  element={<SignUp />}></Route>
+        <Route path="/"  element={<Home />}></Route>
       </Routes>
     </>
   );

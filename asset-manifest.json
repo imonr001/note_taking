@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/imonr001/note_taking.git/static/css/main.71dd9d6c.css",
-    "main.js": "/imonr001/note_taking.git/static/js/main.43065f46.js",
+    "main.js": "/imonr001/note_taking.git/static/js/main.217a3181.js",
     "static/media/loginPageBackground.jpg": "/imonr001/note_taking.git/static/media/loginPageBackground.909a4c17697c449ac264.jpg",
     "static/media/pexels-mart-production-7718838.jpg": "/imonr001/note_taking.git/static/media/pexels-mart-production-7718838.30b89d4c54bb6dcf3398.jpg",
     "index.html": "/imonr001/note_taking.git/index.html",
     "main.71dd9d6c.css.map": "/imonr001/note_taking.git/static/css/main.71dd9d6c.css.map",
-    "main.43065f46.js.map": "/imonr001/note_taking.git/static/js/main.43065f46.js.map"
+    "main.217a3181.js.map": "/imonr001/note_taking.git/static/js/main.217a3181.js.map"
   },
   "entrypoints": [
     "static/css/main.71dd9d6c.css",
-    "static/js/main.43065f46.js"
+    "static/js/main.217a3181.js"
   ]
 }

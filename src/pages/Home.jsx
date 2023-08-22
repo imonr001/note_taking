@@ -16,13 +16,13 @@ function Home() {
     
     
     <div className=" bg-gray-100">
-     
+      <Authentication/>
       <SideNav />
       <div  > 
         {/* <Header /> */}
         {/* <LeftColumn /> */}
         {/* <RightColumn/> */}
-        <Authentication/>
+       
         <Main />
         <NoteOutline/>
     </div>

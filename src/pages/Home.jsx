@@ -22,6 +22,7 @@ function Home() {
         {/* <Header /> */}
         {/* <LeftColumn /> */}
         {/* <RightColumn/> */}
+        <Authentication/>
         <Main />
         <NoteOutline/>
     </div>

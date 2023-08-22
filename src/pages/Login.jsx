@@ -19,7 +19,7 @@ function Login() {
       <form className="bg-gray-300 max-w-[500px] mx-auto w-full rounded-xl ">
         <h2 className=" text-center  text-6xl font-bold pt-5">Scribble</h2>
         <div className="flex flex-col py-2 m-6  font-medium relative">
-          <label>Email</label>
+          <label>Email</label><label> Test Email : test@test.com <br />Password : 1234567</label>
           <input
             className="border py-2"
             type="email"
